@@ -213,7 +213,7 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/estacionmixtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Estacion Retro" tvg-name="Estacion Retro" tvg-logo="https://i.imgur.com/bSBJ51r.png" group-title="CANALES INDEPENDIENTES",Estacion Retro | Colombia
-https://ssh101.bozztv.com/ssh101/canalonline/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/canalonline/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-name="Frecuencia Musical TV" tvg-logo="https://i.imgur.com/SAWdc0u.png" group-title="CANALES INDEPENDIENTES",Frecuencia Musical Tv | USA
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
@@ -225,7 +225,7 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Gogoplay TV" tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="CANALES INDEPENDIENTES",Gogoplay TV | Bolivia
-https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Latino Kids Tv" tvg-name="Latino Kids Tv" tvg-logo="https://i.imgur.com/BArIlh7.jpg" group-title="CANALES INDEPENDIENTES",Latino Kids TV | Uruguay
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
@@ -243,7 +243,7 @@ https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-id="Maxima TV" tvg-name="Maxima TV" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="CANALES INDEPENDIENTES",Maxima TV | Argentina
-https://ssh101.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Memorias Classic" tvg-name="Memorias Classic" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Classic | Colombia
 https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
@@ -258,7 +258,7 @@ https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Miramax Tv" tvg-name="Miramax Tv" tvg-logo="https://i.imgur.com/vIa08pj.jpg" group-title="CANALES INDEPENDIENTES",Miramax Tv | ND
-https://ssh101.bozztv.com/ssh101/miramaxtv/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/miramaxtv2024/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="CANALES INDEPENDIENTES",Moni TV HD | Argentina
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
@@ -294,7 +294,7 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 https://tgn.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro TV" tvg-name="Retro TV" tvg-logo="https://i.imgur.com/GF3i7qq.png" group-title="CANALES INDEPENDIENTES",Retro TV HD
-https://ssh101.bozztv.com/ssh101/retrotvcr/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sicardi TV" tvg-name="Sicardi TV" tvg-logo="https://i.imgur.com/S0k40t9.png" group-title="CANALES INDEPENDIENTES",Sicardi TV | Argentina
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
@@ -315,7 +315,7 @@ https://streaming.zappix.live:19360/tbssur/tbssur.m3u8
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Teleclasica" tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="CANALES INDEPENDIENTES",Teleclasica | Mexico
-http://teleclasica.com/
+https://ssh101-fl.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="CANALES INDEPENDIENTES",Tigueritos TV | Republica Dominicana
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
@@ -342,7 +342,7 @@ https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="INFANTILES",Big TV | Argentina
-https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CL | Funbox" tvg-name="CL | Funbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/120px-FunBox_TV_logo.svg.png" group-title="INFANTILES",Funbox
 https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
