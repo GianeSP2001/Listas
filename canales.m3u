@@ -246,13 +246,13 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 https://ssh101.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Memorias Classic" tvg-name="Memorias Classic" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Classic | Colombia
-https://ssh101.bozztv.com/ssh101/memoriasc2/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Memorias Film" tvg-name="Memorias Film" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Film| Colombia
-https://ssh101.bozztv.com/ssh101/memoriasfilm/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias TV | Colombia
-https://ssh101.bozztv.com/ssh101/musica/chunks.m3u8
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/8rJZuk0.png"  group-title="CANALES INDEPENDIENTES",Mi TV Television Clasica | USA
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
@@ -321,10 +321,10 @@ http://teleclasica.com/
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Costa" tvg-name="TV Costa" tvg-logo="https://tvcosta.cl/wp-content/uploads/2022/12/TV-Costa-768x768.jpg" group-title="CANALES INDEPENDIENTES",Tv Costa | Chile
-https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
+https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Retro Palmares" tvg-name="TV Retro Palmares" tvg-logo="https://i.imgur.com/bdXY34n.png" group-title="CANALES INDEPENDIENTES",TV Retro Palmares | Costa Rica
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+https://250weu.bozztv.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVS Retro" tvg-id="TVS Retro" tvg-logo="https://i.imgur.com/mZNsS9S.png" group-title="CANALES INDEPENDIENTES",TVS Retro | Guatemala
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -436,7 +436,7 @@ http://45.228.234.210:4000/play/a03v/index.m3u8
 http://191.97.60.193:10000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="Animax TV" tvg-name="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Animax TV | Asia
-https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
 #EXTINF:-1 tvg-id="AZTV" tvg-name="AZTV" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV | Republica Dominicana
 http://animezonetv.net/hls/stream.m3u8
