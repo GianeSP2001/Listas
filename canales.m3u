@@ -237,13 +237,13 @@ https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 https://tv.invasivamedia.com/hls/limtv.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv | Argentina
-https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-id="Maxima TV" tvg-name="Maxima TV" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="CANALES INDEPENDIENTES",Maxima TV | Argentina
-https://ssh101-fl.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/maxtvstreaming/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Memorias Classic" tvg-name="Memorias Classic" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Classic | Colombia
 https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
@@ -285,13 +285,13 @@ https://xhateaec.com:8800/hls/IPERSONICA/IPERSONICA/e1c1fb05e0800555fc99bd2f55b5
 https://5f700d5b2c46f.streamlock.net/tvoldtime/tvoldtime/chunklist_w1126196422.m3u8
 
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="CANALES INDEPENDIENTES",Retro Magico | Argentina
-https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="CANALES INDEPENDIENTES",Retro Magico op2 | Argentina
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/Cghkxbr.png" group-title="CANALES INDEPENDIENTES",RetroX TV | Costa Rica
-https://tgn.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/123456789/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Retro TV" tvg-name="Retro TV" tvg-logo="https://i.imgur.com/GF3i7qq.png" group-title="CANALES INDEPENDIENTES",Retro TV HD
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
@@ -324,7 +324,7 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Retro Palmares" tvg-name="TV Retro Palmares" tvg-logo="https://i.imgur.com/bdXY34n.png" group-title="CANALES INDEPENDIENTES",TV Retro Palmares | Costa Rica
-https://250weu.bozztv.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/tvretropalmares/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TVS Retro" tvg-id="TVS Retro" tvg-logo="https://i.imgur.com/mZNsS9S.png" group-title="CANALES INDEPENDIENTES",TVS Retro | Guatemala
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -479,6 +479,12 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TalTal TV" tvg-id="TalTal TV" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv HD | Argentina
 https://ssh101-fl.bozztv.com/ssh101/taltal/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV Asahi" tvg-name="TV Asahi" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="JOVENES Y ADULTOS",TV Asahi | Japon
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+
+#EXTINF:-1 tvg-id="TV Tokio" tvg-name="TV Tokio" tvg-logo="https://i.imgur.com/tDyxk0Y.png" group-title="JOVENES Y ADULTOS",TV Tokio | Japon
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 
 #EXTINF:-1 tvg-id="Wording TV HD" tvg-name="Wording TV HD" tvg-logo="https://i.imgur.com/tVEMkve.png" group-title="JOVENES Y ADULTOS",Wording TV HD | Brasil
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
