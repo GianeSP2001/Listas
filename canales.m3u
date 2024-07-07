@@ -3432,37 +3432,41 @@ http://pe.shortgod.com/volve24/tv1.php?id=292.m3u8
 
 #EXTINF:-1 tvg-id="Alf" tvg-name="Alf" tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf | 24/7
 http://pe.shortgod.com/volve24/tv6.php?id=128&token=ShortGod&file=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Mi Bella Genio | 24/7
-http://pe.shortgod.com/volve24/tv6.php?id=93&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="El Chavo" tvg-name="El Chavo" tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="24/7",El Chavo del 8 | 24/7
 http://tv.soccerplus.link:8000/giovani/5149243302/23316
 #EXTINF:-1 tvg-id="El Chavo" tvg-name="El Chavo" tvg-logo="https://i.imgur.com/inXbFqE.png" group-title="24/7",El Chavo Animado | 24/7
-http://pe.shortgod.com/volve24/tv10.php?id=12023
+http://tv.soccerplus.link:8000/giovani/5149243302/23307
 #EXTINF:-1 tvg-id="El Chapulin" tvg-name="El Chapulin" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png" group-title="24/7",El Chapulin Colorado | 24/7
 http://tv.soccerplus.link:8000/giovani/5149243302/62431
 #EXTINF:-1 tvg-id="El Chapulin" tvg-name="El Chapulin" tvg-logo="https://i.imgur.com/B6TDkOb.png" group-title="24/7",El Chapulin Colorado Animado | 24/7
 http://pe.shortgod.com/volve24/tv6.php?id=113
+#EXTINF:-1 tvg-id="" tvg-name="El laboratorio de Dexter 24/7" tvg-logo="http://www.iptbest.xyz/logo/EllaboratoriodeDexter.png" group-title="24/7",El laboratorio de Dexter | 24/7
+http://tv.soccerplus.link:8000/giovani/5149243302/65925
 #EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://i.imgur.com/UswxIKp.png" group-title="24/7",Chespirito | 24/7
 http://pe.shortgod.com/volve24/tv6.php?id=355&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Coraje el perro cobarde 24/7" tvg-logo="http://www.iptbest.xyz/logo/coraje.png" group-title="24/7",Coraje el perro cobarde | 24/7
 http://tv.soccerplus.link:8000/giovani/5149243302/23315
 #EXTINF:-1 tvg-id="Futurama" tvg-name="Futurama" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c9baab2e-d824-42eb-8d7f-32e309a46b95-profile_image-70x70.png" group-title="24/7",Futurama | 24/7
-http://pe.shortgod.com/volve24/tv6.php?id=166&token=ShortGod&file=.m3u8
+http://tv.soccerplus.link:8000/giovani/5149243302/61833
+#EXTINF:-1 tvg-id="" tvg-name="La Pantera Rosa 24/7" tvg-logo="http://iptbest.xyz/logo/pantera-rosa.png" group-title="24/7",La Pantera Rosa | 24/7
+http://tv.soccerplus.link:8000/giovani/5149243302/34977
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://e1.pngegg.com/pngimages/669/354/png-clipart-los-simpsons-1-texto-p-the-simpsons-text.png" group-title="24/7",Los Simpsons | 24/7
-http://pe.shortgod.com/volve24/tv1.php?id=357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wZUDfAD.png" group-title="24/7",Digimon | 24/7
-http://pe.shortgod.com/volve24/tv6.php?id=129
+http://tv.soccerplus.link:8000/giovani/5149243302/34308
+#EXTINF:-1 tvg-id="" tvg-name="http://iptbest.xyz/logo/digimon-adventure.png" tvg-logo="https://i.imgur.com/wZUDfAD.png" group-title="24/7",Digimon | 24/7
+http://tv.soccerplus.link:8000/giovani/5149243302/34971
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Los Pitufos | 24/7
 http://pe.shortgod.com/volve24/tv6.php?id=329&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5rYVvK6.png" group-title="24/7",Dragon Ball Z | 24/7
 http://tv14s.xyz:8080/103016259/103016259/79572
+#EXTINF:-1 tvg-id="" tvg-name="Los caballeros del zodiaco" tvg-logo="http://www.iptbest.xyz/logo/Loscaballerosdelzodiacoo.png" group-title="24/7",Los caballeros del zodiaco | 24/7
+http://tv.soccerplus.link:8000/giovani/5149243302/23141
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Los Picapiedra | 24/7
 http://tv14s.xyz:8080/103016259/103016259/120949
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/024/203/non_2x/tom-and-jerry-cartoon-free-vector.jpg" group-title="24/7",Tom y Jerry | 24/7
 http://tv14s.xyz:8080/103016259/103016259/125635
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Mi Bella Genio | 24/7
+http://tv.soccerplus.link:8000/giovani/5149243302/62219
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",Duck Tales | 24/7
 http://tv14s.xyz:8080/103016259/103016259/125636
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFkNGY4NGMtZjY0NC00YTI0LThiZjMtMjBmZGMzOGU3YTdmXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg" group-title="24/7",Adventure Time | 24/7
 http://tv14s.xyz:8080/103016259/103016259/178879
-
-
