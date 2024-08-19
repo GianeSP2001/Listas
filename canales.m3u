@@ -345,6 +345,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/vJs4WmR.png" group-title="JOVENES Y ADULTOS",Aniplus HD | Asia
 http://210.210.155.37/dr9445/h/h02/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Anime" tvg-logo="http://23.237.120.58/LOGOS/cinemaanime128x128.png" group-title="JOVENES Y ADULTOS",Cinema Anime
+https://castlempire.site:443/maritza.ismail/JyRMChvvFavk/194768.ts
 #EXTINF:-1 tvg-id="Fuji TV" tvg-name="Fuji TV" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="JOVENES Y ADULTOS",Fuji TV | Japon
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 #EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
