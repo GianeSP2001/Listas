@@ -170,7 +170,7 @@ https://rpn3.bozztv.com/ssh101/ssh101/rexelcanal/playlist.m3u8
 #EXTINF:-1 tvg-id="Casa Grande TV" tvg-name="Casa Grande TV" tvg-logo="https://i.imgur.com/W3HGOHn.png" group-title="CANALES INDEPENDIENTES",Casa Grande TV | Argentina
 https://ssh101.bozztv.com/ssh101/cgtve/playlist.m3u8
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" tvg-name="Ciudad Magica Tv" tvg-logo="https://i.imgur.com/ydqK2H0.png" group-title="CANALES INDEPENDIENTES",Ciudad Magica Tv | Argentina
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+https://stmv4.voxtvhd.com.br/cdadmagicatv/cdadmagicatv/chunklist_w1998397362.m3u8
 #EXTINF:-1 tvg-id="Classic Channel HD" tvg-name="Classic Channel HD" tvg-logo="https://i.imgur.com/N7HXvDq.png" group-title="CANALES INDEPENDIENTES",Classic Channel HD | Chile
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-id="COMGO" tvg-name="COMGO" tvg-logo="https://i.imgur.com/nBb2cWM.jpg" group-title="CANALES INDEPENDIENTES",COMGO | ND
@@ -218,7 +218,7 @@ https://ssh101-fl.bozztv.com/ssh101/miramaxtv2024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="CANALES INDEPENDIENTES",Moni TV HD | Argentina
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="CANALES INDEPENDIENTES",Moni TV HD op2 | Argentina
-https://ssh101.bozztv.com/ssh101/monitvhd/playlist.m3u8
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RRxC9Va.png" group-title="CANALES INDEPENDIENTES",Now 70 | ND
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6D1qYk1.png" group-title="CANALES INDEPENDIENTES",Now 80 | ND
@@ -510,7 +510,6 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bayres TV"  tvg-name="Bayres TV" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="CINE",Bayres TV | Argentina
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="CINE",Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 
