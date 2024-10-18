@@ -344,13 +344,13 @@ http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
 #EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.imgur.com/ru0iCsN.png" group-title="JOVENES Y ADULTOS",Max Anime | Argentina
 https://streamyes.alsolnet.com/maxanime/live/chunklist_w897750388.m3u8
 #EXTINF:-1 tvg-id="Nippon TV" tvg-name="Nippon Tv" tvg-logo="https://i.imgur.com/IGu52nM.png" group-title="JOVENES Y ADULTOS",Nippon TV | Japon
-http://filex.tv:8080/tahirbutt/003092/302598
+https://vnpt.nekocdn.xyz/427b3914-a2b4-401b-b5ed-706158d73908.m3u8
 #EXTINF:-1 tvg-id="Pandamax" tvg-name="Pandamax" tvg-logo="https://i.imgur.com/6jovojb.png" group-title="JOVENES Y ADULTOS",Pandamax | Argentina
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-name="TalTal TV" tvg-id="TalTal TV" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv HD | Argentina
 https://ssh101-fl.bozztv.com/ssh101/taltal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV Asahi" tvg-name="TV Asahi" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="JOVENES Y ADULTOS",TV Asahi | Japon
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
 #EXTINF:-1 tvg-id="TV Tokio" tvg-name="TV Tokio" tvg-logo="https://i.imgur.com/tDyxk0Y.png" group-title="JOVENES Y ADULTOS",TV Tokio | Japon
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 tvg-id="Wording TV HD" tvg-name="Wording TV HD" tvg-logo="https://i.imgur.com/tVEMkve.png" group-title="JOVENES Y ADULTOS",Wording TV HD | Brasil
