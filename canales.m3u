@@ -352,7 +352,7 @@ https://ssh101-fl.bozztv.com/ssh101/taltal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV Asahi" tvg-name="TV Asahi" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="JOVENES Y ADULTOS",TV Asahi | Japon
 https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
 #EXTINF:-1 tvg-id="TV Tokio" tvg-name="TV Tokio" tvg-logo="https://i.imgur.com/tDyxk0Y.png" group-title="JOVENES Y ADULTOS",TV Tokio | Japon
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+https://vnpt.nekocdn.xyz/memfs/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8
 #EXTINF:-1 tvg-id="Wording TV HD" tvg-name="Wording TV HD" tvg-logo="https://i.imgur.com/tVEMkve.png" group-title="JOVENES Y ADULTOS",Wording TV HD | Brasil
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Yamato Animation" tvg-name="Yamato Animation" tvg-logo="https://i.imgur.com/rOl7HfS.png" group-title="JOVENES Y ADULTOS",Yamato Animation | Italia
