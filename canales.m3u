@@ -322,7 +322,7 @@ http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV | Brasil
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="AnimeStation" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation | Argentina
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+https://fl1002.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/vJs4WmR.png" group-title="JOVENES Y ADULTOS",Aniplus HD | Asia
 http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinema Anime" tvg-logo="http://23.237.120.58/LOGOS/cinemaanime128x128.png" group-title="JOVENES Y ADULTOS",Cinema Anime
