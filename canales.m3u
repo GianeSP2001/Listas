@@ -169,6 +169,8 @@ https://ssh101-fl.bozztv.com/ssh101/canalonline/tracks-v1a1/mono.m3u8
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-name="Frecuencia Musical TV" tvg-logo="https://i.imgur.com/SAWdc0u.png" group-title="CANALES INDEPENDIENTES",Frecuencia Musical Tv op2 | USA
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
+#EXTINF:-1 tvg-id="FunTVRetro" tvg-name="FunTVRetro" tvg-logo="https://i2.paste.pics/c61e14cb2089db3d9ba31c4d4851b5b8.png" group-title="CANALES INDEPENDIENTES", FunTV
+https://ssh101-fl.bozztv.com/ssh101/funtvretro/index.m3u8
 #EXTINF:-1 tvg-id="Ani TV" tvg-name="Ani TV" tvg-logo="https://i.imgur.com/5989JuX.png" group-title="CANALES INDEPENDIENTES",Geekdot TV | Brasil
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Gogoplay TV" tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="CANALES INDEPENDIENTES",Gogoplay TV | Bolivia
