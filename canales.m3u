@@ -361,7 +361,7 @@ http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Yamato Animation" tvg-name="Yamato Animation" tvg-logo="https://i.imgur.com/rOl7HfS.png" group-title="JOVENES Y ADULTOS",Yamato Animation | Italia
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZTV" tvg-name="ZTV" tvg-logo="" group-title="JOVENES Y ADULTOS",Yamato Animation | Chile
+#EXTINF:-1 tvg-id="ZTV" tvg-name="ZTV" tvg-logo="https://th.bing.com/th/id/OIP.VYzI6G39-ngSJjI9PI-czQAAAA?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3" group-title="JOVENES Y ADULTOS",ZTV 2| ND
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="America 24" tvg-name="America 24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="FAMILIARES",America 24 | Argentina
