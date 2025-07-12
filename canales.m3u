@@ -367,6 +367,8 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZTV" tvg-name="ZTV" tvg-logo="https://th.bing.com/th/id/OIP.VYzI6G39-ngSJjI9PI-czQAAAA?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3" group-title="JOVENES Y ADULTOS",ZTV 2| ND
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="ZTV Anime" tvg-id="ZTVAnime" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV Anime HD
+https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 
 #EXTINF:-1 tvg-id="America 24" tvg-name="America 24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="FAMILIARES",America 24 | Argentina
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
