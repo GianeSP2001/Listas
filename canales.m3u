@@ -216,15 +216,15 @@ https://live.autistici.org/hls/syfy3239498_src.m3u8
 #EXTINF:-1 tvg-id="TBS Sur" tvg-name="TBS Sur" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="CANALES INDEPENDIENTES",TBS Sur | ND
 https://streaming.zappix.live:19360/tbssur/tbssur.m3u8
 #EXTINF:-1 tvg-id="Teleclasica" tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="CANALES INDEPENDIENTES",Teleclasica | Mexico
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
+https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/teleclasica-1234.ts?hls_ctx=114em57n
 #EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="CANALES INDEPENDIENTES",Tigueritos TV | Republica Dominicana
-https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w1809576434.m3u8
 #EXTINF:-1 tvg-id="Toonizaki HD" tvg-name="Toonizaki HD" tvg-logo="https://i.ibb.co/RNLmbTP/logo-Toonizaki-4.jpg" group-title="CANALES INDEPENDIENTES",Toonizaki HD | Argentina
 https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="TV Costa" tvg-name="TV Costa" tvg-logo="https://tvcosta.cl/wp-content/uploads/2022/12/TV-Costa-768x768.jpg" group-title="CANALES INDEPENDIENTES",Tv Costa | Chile
 https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Retro Palmares" tvg-name="TV Retro Palmares" tvg-logo="https://i.imgur.com/bdXY34n.png" group-title="CANALES INDEPENDIENTES",TV Retro Palmares | Costa Rica
-https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
 #EXTINF:-1 tvg-id="TVS Retro" tvg-id="TVS Retro" tvg-logo="https://i.imgur.com/mZNsS9S.png" group-title="CANALES INDEPENDIENTES",TVS Retro | Guatemala
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
 #EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://i.imgur.com/s71A8ya.jpg" group-title="CANALES INDEPENDIENTES",VariedTV | Argentina
@@ -498,79 +498,54 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="CINE",Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="CINE",Cine Horrorfy | USA
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ONURCJ.png" group-title="CINE",Cine Juntos | USA
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="CINE",Cine Real | USA
 https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/playlist/amg01024-olympusat-cinereallatam-ono/cb553d167c6c64879ad43e63d9ef41a0d22411fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66411f21c118de751fc7c76adf046727486b9898b37bd9981208a2ae56687fe525564eff0f10ce254136d8bb425c8764b72c4812bd593c1b63dcb80cb0270094d21788797a8baddf68687d5b0dcc5779df9a1be090a11f1c9e3df2f83e7eaf1b448efc5fc3fc2687d180188012c6369e4acccfa5a9eb2ab4f0d336fc33d46e71324c7c9d933786da62a6c8937f389f685a207431b79abdb31469ec364258ebb1caaf75c000da8637845f22a90cea0fee4e827fbe19b4bb01efbaacc80c472ba1c14f7769a3eaadc5ff3025b465feb1b3b3191b98f2073643c779aa414159c0a7b77eeac21185f820baa47b123cd5924089efd8e987b384449937cfc6f8c2752820620011c85cb28a52d93cd37ca4cb6157363947a2971bcb8ac05320775c879410f2011ebcefbdd992645ccb640814ec69dd2947068c313c2ce37da1c8693bd8760bd66068af0c638544a9ec7af7a5d8b70768ec88c618bc0586b40ec1b805ac632e5c70c598587057457ad9e06701356a8341e193ecf3720c34daadbd94a9523c1477145d1c9be39513f1ef90736a7ca65222733a05059a76ba03b5065b052bdd089daf0679b7e8404797cfc0cec90decaa9cb9c5b0e741ad76d0c08f4145597742cdfe81bb0ca9dba356ef2c433e5b50851d6d40bc7d282a6f4b7e84ebeb43cb846da93722376ad1e9553661ecb4d46be9f34bfa6698f830bc83c35fc3afae1b519c76c46b75cf85843ea8bfc8af3b7eb430da92c79e8007bc93fae7f5568cb0723aab9158030e3543498da351e756bad0a5e4228e3597ae6214c955b486eabfda6719b2df1a737b3e5c197b5d613f4c96ee95324e2ab7fc35f007b7bb0ce7121d731842dd890f11d4b8264ccc642e31e586c299a8cc0c08853fa520873071d53d6419e8c23ce594a1b3adf5097a3499e0e51dc1e4e2e6e1d9d02f72076d4aeae7564772de29e8cc4aa19a1472eb869cf69809b370f13eaf8ba624876df59bbc5716f75fb30575485c915036ff4dea/150/1920x1080_5824280/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="CINE",Cine Real op2 | USA
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c7bRHaL.png" group-title="CINE",Cine Sureno | USA
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
-
 #EXTINF:-1 tvg-logo="http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg" group-title="CINE",Distrito TV | Spain
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
-
 #EXTINF:-1 tvg-id="Extrema TV" tvg-name="Extrema TV" tvg-logo="http://www.radioextremacr.com/img/logo.png" group-title="CINE",Extrema TV | Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",Free TV LQ | USA
 https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/playlist/amg01024-olympusat-chiquilines-ono/cb553d167c6c64879ad43e63d9ef41a0d22411fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66411f21c118de751fc7c76adf046727486b9898b37bd9981208a2ae56687fe525564eff0f10ce2541368aed1c0add64b42d4812bd593c1b63dcb80cb02704938217dd792adeff89673c745c0e99577adf970ff7bcff1807844e9d8b261ed77a10a3c45c9a8b41b1a8ee67cf17c568a054ddfdaeda8e45a0beab55df15e7313d6e7803f3e97897da13b1df947b3cee0042293b5bf2b196ea4b328f4a4a59f6ebc4e52d957dcf8d36cf6127ab3f9a5a8a34866ed87fcd954dafa0f5d04e5834b4d1486033eec3b28ffe0105e72b91c5e8d960329dff100a05a32ddd727b3ec0a59941d3924597e576d0e03d4b3dc6c411cd9fb080bdb1de13ca2490b39ef228517173160b905ca1831fbd43b92991e05e7b14273af19241d09683117f634b95ce4bc70f1abdc8c596cc5004da72124ce963c0296306a8655552a87789f0556d8d3544863a2deb5947e3289de876a0cdaae40228fbdfd752c07cfbba18d7c917bb614e1968cdfa384b555f279fa1711a2737c557e1d6def7390a0fe1b8c9fbd65a3b022a4d3c66ece3e363d58ace3d6f75ab3276529a717de76c29fa4c61336203f15cb5810c6c8c052e5f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49774eeb0d01ec2b96154e66735e8f4f474aa91e1835822b0e52f8f20dedb15cd0534f117bccf318012a5b677a40fcfa0d860bbac14debd2a228bdcb179fce2535f021697e07fc8e7a4ab967057cb1a7520b6e94d268e87635ce14db14abdb64c18ab467761f6d47d88758f35ef68ad4976bd21ba4410771fd6bfbb2d7f3802807bcd158256958054e31023f6c2bbdd9de6b4f29bced77b60cb6ba158f4b46363948c6cd510fd3a6276eef5f1757acaecf84bad94347b808da4189364df72d484486e137f08abefffbfd1e7209cbb3ad43a3e1c5c1fbdfc422711c7f72fce55a467ccc29e08665b0fa0d509887805040f2c7ac351c8adab5e2/17/384x216_448720/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",Free TV SD | USA
 https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/playlist/amg01024-olympusat-chiquilines-ono/cb553d167c6c64879ad43e63d9ef41a0d22411fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66411f21c118de751fc7c76adf046727486b9898b37bd9981208a2ae56687fe525564eff0f10ce2541368aed1c0add64b42d4812bd593c1b63dcb80cb02704938217dd792adeff89673c745c0e99577adf970ff7bcff1807844e9d8b261ed77a10a3c45c9a8b41b1a8ee67cf17c568a054ddfdaeda8e45a0beab55df15e7313d6e7803f3e97897da13b1df947b3cee0042293b5bf2b196ea4b328f4a4a59f6ebc4e52d957dcf8d36cf6127ab3f9a5a8a34866ed87fcd954dafa0f5d04e5834b4d1486033eec3b28ffe0105e72b91c5e8d960329dff100a05a32ddd727b3ec0a59941d3924597e576d0e03d4b3dc6c411cd9fb080bdb1de13ca2490b39ef228517173160b905ca1831fbd43b92991e05e7b14273af19241d09683117f634b95ce4bc70f1abdc8c596cc5004da72124ce963c0296306a8655552a87789f0556d8d3544863a2deb5947e3289de876a0cdaae40228fbdfd752c07cfbba18d7c917bb614e1968cdfa384b555f279fa1711a2737c557e1d6def7390a0fe1b8c9fbd65a3b022a4d3c66ece3e363d58ace3d6f75ab3276529a717de76c29fa4c61336203f15cb5810c6c8c052e5f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49774eeb0d01ec2b96154e66735e8f4f474aa91e1835822b0e52f8f20dedb15cd0534f117bccf318012a5b677a40fcfa0d860bbac14debd2a228bdcb179fce2535f021697e07fc8e7a4ab967057cb1a7520b6e94d268e87635ce14db14abdb64c18ab467761f6d47d88758f35ef68ad4976bd21ba4410771fd6bfbb2d7f3802807bcd158256958054e31023f6c2bbdd9de6b4f29bced77b60cb6ba158f4b46363948c6cd510fd3a6276eef5f1757acaecf84bad94347b808da4189364df72d484486e137f08abefffbfd1e7209cbb3ad43a3e1c5c1fbdfc422711c7f72fce55a467ccc29e08665b0fa0d509887805040f2c7ac351c8adab5e2/17/512x288_906215/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",Free TV HD | USA
 https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/playlist/amg01024-olympusat-chiquilines-ono/cb553d167c6c64879ad43e63d9ef41a0d22411fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66411f21c118de751fc7c76adf046727486b9898b37bd9981208a2ae56687fe525564eff0f10ce2541368aed1c0add64b42d4812bd593c1b63dcb80cb02704938217dd792adeff89673c745c0e99577adf970ff7bcff1807844e9d8b261ed77a10a3c45c9a8b41b1a8ee67cf17c568a054ddfdaeda8e45a0beab55df15e7313d6e7803f3e97897da13b1df947b3cee0042293b5bf2b196ea4b328f4a4a59f6ebc4e52d957dcf8d36cf6127ab3f9a5a8a34866ed87fcd954dafa0f5d04e5834b4d1486033eec3b28ffe0105e72b91c5e8d960329dff100a05a32ddd727b3ec0a59941d3924597e576d0e03d4b3dc6c411cd9fb080bdb1de13ca2490b39ef228517173160b905ca1831fbd43b92991e05e7b14273af19241d09683117f634b95ce4bc70f1abdc8c596cc5004da72124ce963c0296306a8655552a87789f0556d8d3544863a2deb5947e3289de876a0cdaae40228fbdfd752c07cfbba18d7c917bb614e1968cdfa384b555f279fa1711a2737c557e1d6def7390a0fe1b8c9fbd65a3b022a4d3c66ece3e363d58ace3d6f75ab3276529a717de76c29fa4c61336203f15cb5810c6c8c052e5f9ecd5d737b1c5b4c2ce3fdbbe44ba76bdb8fdc342a295060bc49774eeb0d01ec2b96154e66735e8f4f474aa91e1835822b0e52f8f20dedb15cd0534f117bccf318012a5b677a40fcfa0d860bbac14debd2a228bdcb179fce2535f021697e07fc8e7a4ab967057cb1a7520b6e94d268e87635ce14db14abdb64c18ab467761f6d47d88758f35ef68ad4976bd21ba4410771fd6bfbb2d7f3802807bcd158256958054e31023f6c2bbdd9de6b4f29bced77b60cb6ba158f4b46363948c6cd510fd3a6276eef5f1757acaecf84bad94347b808da4189364df72d484486e137f08abefffbfd1e7209cbb3ad43a3e1c5c1fbdfc422711c7f72fce55a467ccc29e08665b0fa0d509887805040f2c7ac351c8adab5e2/17/1280x720_2964940/index.m3u8
-
 #EXTINF:-1 tvg-id="Golden Plus" tvg-name="Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus.png" group-title="CINE",Golden Plus | Mexico
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Golden Premier" tvg-name="Golden Premier" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier.png" group-title="CINE",Golden Premier | Mexico
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9jprbpv.png" group-title="CINE",Mega Cine Tv | Republica Dominicana
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
 #EXTINF:-1 tvg-id="195149" tvg-name="MOOVIMEX" tvg-logo="https://i.imgur.com/q3PmMF9.jpg" group-title="CINE", MOOVIMEX | Mexico
 https://linear-564.frequency.stream:443/mt/studio/564/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sRYe8Np.jpg" group-title="CINE",Movies Central by tv player | Spain
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
 #EXTINF:-1 tvg-id="195146" tvg-name="My Time MX" tvg-logo="https://i.imgur.com/hMksKhc.png" group-title="CINE",My Time Movie | Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/heJNpjQ.png" group-title="CINE",Orbit TV | Republica Dominicana
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Cine" tvg-name="Cine" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="CINE",PlanetaTV Movie | Chile
 https://tls-cl.cdnz.cl/movie/live/chunklist_w451618268.m3u8
-
 #EXTINF:-1 tvg-id="Cine" tvg-name="Cine" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="CINE",PlanetaTV Movie op2 | Chile
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgHu53w.png" group-title="CINE",Top Cine | USA
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="CINE",Tu Cine | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="CINE",Tu Cine op1 | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/756fd709-c11e-4881-97aa-c5b7de54070a/4.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="CINE",Tu Cine op2 | USA
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-
 #EXTINF:-1 tvg-id="Wow Tv" tvg-name="Wow Tv" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="CINE",Wow Tv | El Salvador
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/auWtr20.png" group-title="CINE",Video Club | Argentina
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
