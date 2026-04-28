@@ -196,11 +196,11 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="Radio Old Time" tvg-name="Radio Old Time" tvg-logo="https://www.radioldtime.com.ar/data/files/logoradioldtime2-1.png" group-title="CANALES INDEPENDIENTES",Radio Old Time | Argentina
 https://5f700d5b2c46f.streamlock.net/tvoldtime/tvoldtime/chunklist_w1126196422.m3u8
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://gia.tv/streams/logo/209185.jpg?1750372435" group-title="CANALES INDEPENDIENTES",Retro Magico | Argentina
-https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/chunks.m3u8
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.ibb.co/KFD5rmn/logo-Retrox-TV.png" group-title="CANALES INDEPENDIENTES",RetroX TV | Costa Rica
-https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/l_340064_169051985_28175.ts
-#EXTINF:-1 tvg-id="Retro TV" tvg-name="Retro TV" tvg-logo="https://i.imgur.com/GF3i7qq.png" group-title="CANALES INDEPENDIENTES",Retro TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
+https://tvservices.fullhd-streaming.com:3963/live/tvgroupretroxtvlive.m3u8
+#EXTINF:-1 tvg-id="Retro TV" tvg-name="Retro TV Online" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpo7qt31-VxsqIA1Uf757Hwr162gAzAOmNsw&s" group-title="CANALES INDEPENDIENTES",Retro TV HD
+https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8?tkn=4239244752
 #EXTINF:-1 tvg-id="Sicardi TV" tvg-name="Sicardi TV" tvg-logo="https://i.imgur.com/S0k40t9.png" group-title="CANALES INDEPENDIENTES",Sicardi TV | Argentina
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-id="Spectrum Channel" tvg-name="Spectrum Channel" tvg-logo="https://spectrumchannel.cl/wp-content/uploads/2022/12/LOGO-SPECTRUM-CHANNEL-2023-SIN-FONDO-e1670046527660.png" group-title="CANALES INDEPENDIENTES",Spectrum Channel | Chile
@@ -212,7 +212,7 @@ https://live.autistici.org/hls/syfy3239498_src.m3u8
 #EXTINF:-1 tvg-id="TBS Sur" tvg-name="TBS Sur" tvg-logo="https://i.imgur.com/zdMfphG.jpg" group-title="CANALES INDEPENDIENTES",TBS Sur | ND
 https://streaming.zappix.live:19360/tbssur/tbssur.m3u8
 #EXTINF:-1 tvg-id="Teleclasica" tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="CANALES INDEPENDIENTES",Teleclasica | Mexico
-https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/teleclasica-1234.ts?hls_ctx=114em57n
+https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8?hls_ctx=846s99s4
 #EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="CANALES INDEPENDIENTES",Tigueritos TV | Republica Dominicana
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w1809576434.m3u8
 #EXTINF:-1 tvg-id="Toonizaki HD" tvg-name="Toonizaki HD" tvg-logo="https://i.ibb.co/RNLmbTP/logo-Toonizaki-4.jpg" group-title="CANALES INDEPENDIENTES",Toonizaki HD | Argentina
@@ -222,7 +222,7 @@ https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Retro Palmares" tvg-name="TV Retro Palmares" tvg-logo="https://i.imgur.com/bdXY34n.png" group-title="CANALES INDEPENDIENTES",TV Retro Palmares | Costa Rica
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
 #EXTINF:-1 tvg-id="TVS Retro" tvg-id="TVS Retro" tvg-logo="https://i.imgur.com/mZNsS9S.png" group-title="CANALES INDEPENDIENTES",TVS Retro | Guatemala
-https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://i.imgur.com/s71A8ya.jpg" group-title="CANALES INDEPENDIENTES",VariedTV | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 #EXTINF:-1 tvg-id="Voice Over Radio TV" tvg-name="Voice Over Radio TV" tvg-logo="https://i.imgur.com/qhLnq2W.png" group-title="CANALES INDEPENDIENTES",Voice Over Radio TV | Costa Rica
@@ -230,7 +230,7 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-id="Wow Channel" tvg-name="Wow Channel" tvg-logo="https://i.imgur.com/Eqko3Cm.png" group-title="CANALES INDEPENDIENTES",Wow Channel | Colombia
 https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="Wow Movies" tvg-name="Wow Movies" tvg-logo="https://i.imgur.com/mw8E8GQ.jpg" group-title="CANALES INDEPENDIENTES",Wow Movies | Colombia
-https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="INFANTILES",Big TV | Argentina
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
@@ -2832,7 +2832,7 @@ http://alfatv.lat:2082/0293TV/Gcy8524bx9wH/322338
 #EXTINF:-1 tvg-id="Television Publica" tvg-name="Television Publica" tvg-logo="https://i.imgur.com/04nIdpc.png" group-title="SHORTGOD",Television Publica | Argentina
 http://pe.shortgod.com/volve24/tv8.php?id=46746&f=.m3u8
 #EXTINF:-1 tvg-id="TLNovelas MX" tvg-name="TLNovelas MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas.png" group-title="SHORTGOD",TL Novelas | Mexico
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/40
+http://rlatinop.com:8880/Jess/eC4PDnaCVzn4/135436
 #EXTINF:-1 tvg-id="TLNovelas Univision" tvg-name="TLNovelas Univision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision_tlnovelas.png" group-title="SHORTGOD",TL Novelas Univision | USA
 http://rhinotvplus.com:8080/Pablomartinez664/6xL6Trt9r93W/105727
 #EXTINF:-1 tvg-id="TVN Chile" tvg-name="TVN Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile.png" group-title="SHORTGOD",TVN | Chile
@@ -2857,9 +2857,6 @@ http://pe.shortgod.com/volve24/tv1.php?id=102.m3u8
 http://pe.shortgod.com/volve24/tv10.php?id=101601-livetv
 #EXTINF:-1 tvg-id="Warner Channel Sur" tvg-name="Warner Channel Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv.png" group-title="SHORTGOD",Warner Channel op4
 http://pe.shortgod.com/volve24/tv9.php?id=272
-
-
-
 
 #EXTINF:-1 tvg-id="Adrenalina Sports Network" tvg-name="Adrenalina Sports Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network.png" group-title="SHORTGOD",Adrenalina Sports Network | Mexico
 http://pe.shortgod.com/volve24/tv9.php?id=2200
