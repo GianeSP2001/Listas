@@ -110,9 +110,9 @@ https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://neotv.energeek.cl/assets/img/channels/energeek-c1.png" group-title="CANALES INDEPENDIENTES",EnerGeek Retro | Chile
 https://cl-2.backend.energeek.cl/bkp/egretroweb/tracks-v1a1/mono.ts.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-radio-new.png" group-title="CANALES INDEPENDIENTES",Energeek Radio TV | Chile
-https://cl-2.backend.energeek.cl/bkp/egradio/mobile/tracks-v1a1/2026/11/17/15/45/44-08341.ts?token=W3bEnerG33k2026
+https://cl-2.backend.energeek.cl/bkp/egradioweb/tracks-v1a1/mono.ts.m3u8?token=NeoTVCL
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-new.png" group-title="CANALES INDEPENDIENTES",Fanpop TV | Chile
-https://cl-2.backend.energeek.cl/bkp/egfanweb/tracks-v1a1/2026/11/17/15/43/29-08007.ts?token=NeoTVCL
+https://cl-2.backend.energeek.cl/bkp/egfanweb/tracks-v1a1/mono.ts.m3u8?token=NeoTVCL
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="CANALES INDEPENDIENTES",Fanpop TV op2 | Chile
 https://wifispeed.trapemn.tv:1936/energeek/fan-publico-temp/chunks.m3u8
 #EXTINF:-1 tvg-id="CCP Radio" tvg-name="CCP Radio" tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="CANALES INDEPENDIENTES",CCP Radio | Chile
